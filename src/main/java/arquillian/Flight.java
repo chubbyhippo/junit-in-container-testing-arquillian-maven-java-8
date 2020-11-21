@@ -22,7 +22,7 @@ public class Flight {
 		return seats;
 	}
 
-	public int getPassengers() {
+	public int getNumberOfPassengers() {
 		return passengers.size();
 	}
 
